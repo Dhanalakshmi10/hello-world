@@ -1,1 +1,3 @@
 # hello-world
+cd models/tutorials/image/imagenet
+python classify_image.py
